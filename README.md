@@ -3,7 +3,7 @@
 Our world is filled with fake photos—AI-generated or edited. Miracam aims to Make Image Real Again (MIRA). We mint all shots as NFTs with hardware-generated signatures to prove authenticity. Private shots are encrypted and wallet-controlled, preserving privacy on-chain.
 
 
-## Motivation
+## Design
 
 Miracam is a mobile camera app, aimed to capture real, immutable and permanent image. The problem is how do we make sure this image is real? How to we prove that? How do we make sure consumer has seamless experience? How do we make it gasless yet permissionless and trustless at the same time?
 
